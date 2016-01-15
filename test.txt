@@ -1,4 +1,4 @@
-1. added an item.
-2. so an item 2
-3. yet another item 3
-4. finally fourth
+- added an item.
+- so an item 2
+- yet another item 3
+- finally fourth
